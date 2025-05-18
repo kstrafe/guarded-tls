@@ -1,0 +1,12 @@
+[package]
+name = "guarded-tls"
+version = "0.1.0"
+edition = "2024"
+authors = ["Kevin Robert Stravers <kevin@stravers.net>"]
+description = "Guarded thread-local variables"
+homepage = "https://github.com/kstrafe/guarded-tls"
+repository = "https://github.com/kstrafe/guarded-tls"
+keywords = ["thread-local"]
+license = "MIT"
+
+[dependencies]
